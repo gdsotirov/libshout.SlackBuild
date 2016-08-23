@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: libshout.SlackBuild,v 1.4 2016/08/23 14:01:49 gsotirov Exp $
+# $Id: libshout.SlackBuild,v 1.5 2016/08/23 14:15:39 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=libshout
-VERSION=2.2.2
+VERSION=2.3.1
 ARCH=${ARCH:-i486}
 BUILD=${BUILD:-1}
 
